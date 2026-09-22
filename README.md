@@ -20,7 +20,7 @@ My work covers Cisco networking, Windows Server, Active Directory, Linux adminis
 
 | Project | Focus |
 | --- | --- |
-| [Active Directory](https://github.com/laflame90210/active-directory-lab) | OUs, users, groups, Group Policy, PowerShell, and backup/restore practice |
+practice |
 | [Linux Administration](https://github.com/laflame90210/linux-administration) | Fedora/Linux exercises, permissions, SSH, LVM, backups, and cron |
 | [CCNA & CCNA Security Labs](https://github.com/laflame90210/cisco-networking-labs) | Original Cisco Packet Tracer networking and security projects |
 | [FixIT841](https://github.com/laflame90210/fixit841) | Co-founded an IT support and learning platform |
