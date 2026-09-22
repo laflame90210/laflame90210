@@ -15,15 +15,8 @@ My work covers Cisco networking, Windows Server, Active Directory, Linux adminis
 | [Multi-Site Enterprise Network](https://github.com/laflame90210/enterprise-network-packet-tracer) | Five-site Packet Tracer network with routing, redundancy, wireless, and access controls |
 | [Exchange Server](https://github.com/laflame90210/exchange-server-lab) | Messaging infrastructure, certificates, mailboxes, Outlook access, and backup |
 | [SCCM / Configuration Manager](https://github.com/laflame90210/sccm-endpoint-management) | VMware lab covering endpoint discovery, collections, clients, inventory, and applications |
-
-## More projects
-
-| Project | Focus |
-| --- | --- |
-practice |
-| [Linux Administration](https://github.com/laflame90210/linux-administration) | Fedora/Linux exercises, permissions, SSH, LVM, backups, and cron |
-| [CCNA & CCNA Security Labs](https://github.com/laflame90210/cisco-networking-labs) | Original Cisco Packet Tracer networking and security projects |
 | [FixIT841](https://github.com/laflame90210/fixit841) | Co-founded an IT support and learning platform |
+
 
 ## Technical skills
 
